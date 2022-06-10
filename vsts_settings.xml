@@ -1,0 +1,25 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/taivt/nois-hrm/_git/Mobile" />
+          <option name="serverUri" value="https://dev.azure.com/taivt" />
+          <option name="userId" value="b7e0fa91-f766-6dbf-92aa-c6685dd1d035" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8f6360e5-c3e7-4325-b111-43044b9838f8&quot;,&quot;name&quot;:&quot;taivt&quot;,&quot;url&quot;:&quot;https://dev.azure.com/taivt/_apis/projectCollections/8f6360e5-c3e7-4325-b111-43044b9838f8&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;c276feb3-898f-489d-bfe0-279bcfcaf315&quot;,&quot;name&quot;:&quot;nois-hrm&quot;,&quot;revision&quot;:40,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/taivt/_apis/projects/c276feb3-898f-489d-bfe0-279bcfcaf315&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;05989b08-667e-43b5-ab9a-a9aacd05c0cf&quot;,&quot;name&quot;:&quot;Mobile&quot;,&quot;remoteUrl&quot;:&quot;https://taivt@dev.azure.com/taivt/nois-hrm/_git/Mobile&quot;,&quot;url&quot;:&quot;https://dev.azure.com/taivt/_apis/git/repositories/05989b08-667e-43b5-ab9a-a9aacd05c0cf&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;c276feb3-898f-489d-bfe0-279bcfcaf315&quot;,&quot;name&quot;:&quot;nois-hrm&quot;,&quot;revision&quot;:40,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/taivt/_apis/projects/c276feb3-898f-489d-bfe0-279bcfcaf315&quot;}}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//dev.azure.com/taivt/nois-hrm/_git/mobile" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
