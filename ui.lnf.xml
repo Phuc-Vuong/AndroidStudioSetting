@@ -12,4 +12,7 @@
       <NestingRule child-file-suffix=".state.dart" parent-file-suffix=".dart" />
     </nesting-rules>
   </component>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="722" />
+  </component>
 </application>
