@@ -9,6 +9,7 @@
       <NestingRule child-file-suffix=".freezed.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".g.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".module" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".search_delegate.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".state.dart" parent-file-suffix=".dart" />
     </nesting-rules>
   </component>
