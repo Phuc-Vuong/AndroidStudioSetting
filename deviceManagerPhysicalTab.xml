@@ -4,8 +4,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-1C031FDF60086F-CusALT._adb-tls-connect._tcp" />
+            <type value="SERIAL_NUMBER" />
+            <value value="1C031FDF60086F" />
           </Key>
         </key>
         <name value="Google Pixel 6" />
@@ -15,8 +15,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="1C031FDF60086F" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-1C031FDF60086F-CusALT._adb-tls-connect._tcp" />
           </Key>
         </key>
         <name value="Google Pixel 6" />
