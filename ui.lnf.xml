@@ -14,6 +14,7 @@
       <NestingRule child-file-suffix=".module" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".search_delegate.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".state.dart" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".fake_data.dart" parent-file-suffix=".fake.dart" />
     </nesting-rules>
   </component>
 </application>
