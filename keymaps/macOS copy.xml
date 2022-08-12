@@ -1,0 +1,19 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CIDR.Debugger.ShowInMemoryView" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="KotlinShellExecute" />
+  <action id="ProblemsView.QuickFixes" />
+  <action id="SetShortcutAction" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ViewSource" />
+</keymap>
