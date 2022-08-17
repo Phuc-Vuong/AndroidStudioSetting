@@ -23,6 +23,17 @@
         <target value="Android API 32" />
         <api value="32" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-1C031FDF60086F-CusALT._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
