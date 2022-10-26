@@ -10,7 +10,7 @@
         </key>
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,18 @@
         </key>
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="D0AA002307J82815890" />
+          </Key>
+        </key>
+        <name value="HMD Global Nokia 7.2" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
